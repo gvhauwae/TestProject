@@ -1,0 +1,11 @@
+D:\school\sem4 - CCCP\NET Technology\opl MvCReeks2\eigenOplMvcReeks2\eigenOplMvcReeks2\bin\Debug\netcoreapp2.0\eigenOplMvcReeks2.deps.json
+D:\school\sem4 - CCCP\NET Technology\opl MvCReeks2\eigenOplMvcReeks2\eigenOplMvcReeks2\bin\Debug\netcoreapp2.0\eigenOplMvcReeks2.runtimeconfig.json
+D:\school\sem4 - CCCP\NET Technology\opl MvCReeks2\eigenOplMvcReeks2\eigenOplMvcReeks2\bin\Debug\netcoreapp2.0\eigenOplMvcReeks2.runtimeconfig.dev.json
+D:\school\sem4 - CCCP\NET Technology\opl MvCReeks2\eigenOplMvcReeks2\eigenOplMvcReeks2\bin\Debug\netcoreapp2.0\eigenOplMvcReeks2.dll
+D:\school\sem4 - CCCP\NET Technology\opl MvCReeks2\eigenOplMvcReeks2\eigenOplMvcReeks2\obj\Debug\netcoreapp2.0\eigenOplMvcReeks2.csprojResolveAssemblyReference.cache
+D:\school\sem4 - CCCP\NET Technology\opl MvCReeks2\eigenOplMvcReeks2\eigenOplMvcReeks2\obj\Debug\netcoreapp2.0\eigenOplMvcReeks2.csproj.CoreCompileInputs.cache
+D:\school\sem4 - CCCP\NET Technology\opl MvCReeks2\eigenOplMvcReeks2\eigenOplMvcReeks2\obj\Debug\netcoreapp2.0\eigenOplMvcReeks2.AssemblyInfoInputs.cache
+D:\school\sem4 - CCCP\NET Technology\opl MvCReeks2\eigenOplMvcReeks2\eigenOplMvcReeks2\obj\Debug\netcoreapp2.0\eigenOplMvcReeks2.AssemblyInfo.cs
+D:\school\sem4 - CCCP\NET Technology\opl MvCReeks2\eigenOplMvcReeks2\eigenOplMvcReeks2\bin\Debug\netcoreapp2.0\eigenOplMvcReeks2.pdb
+D:\school\sem4 - CCCP\NET Technology\opl MvCReeks2\eigenOplMvcReeks2\eigenOplMvcReeks2\obj\Debug\netcoreapp2.0\eigenOplMvcReeks2.dll
+D:\school\sem4 - CCCP\NET Technology\opl MvCReeks2\eigenOplMvcReeks2\eigenOplMvcReeks2\obj\Debug\netcoreapp2.0\eigenOplMvcReeks2.pdb
